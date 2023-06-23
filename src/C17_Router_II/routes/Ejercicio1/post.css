@@ -1,0 +1,16 @@
+.main {border: 1px solid white;
+border-radius: 10px;
+padding: 16px;
+max-width: 250px;
+margin-bottom: 30px;
+}
+
+
+
+.Link {
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: burlywood;
+    color: black;
+}
